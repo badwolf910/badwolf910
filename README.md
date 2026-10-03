@@ -8,12 +8,7 @@ I enjoy creating interfaces that feel intuitive, human, and purposeful.
 
 Technical Skills
 
-**Languages:** JavaScript, Python, C  
-**Frontend:** React, Vite, Bootstrap, Tailwind CSS  
-**Backend:** FastAPI, Node.js  
-**Tools:** Git, WordPress, Railway, VS Code  
-**Databases:** MySQL  
-## Technical Skills
+
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
