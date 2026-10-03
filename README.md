@@ -45,9 +45,14 @@ Portfolio Website
 My personal developer portfolio showcasing selected work, design philosophy, and project history.  
 Live demo: [https://badwolf910.github.io/portfolio/](https://badwolf910.github.io/portfolio/)
 
-Cleaning Service App  
-A responsive service‑based site built with JavaScript and modern CSS.  
-Live demo: `https://badwolf910.github.io/cleaning-service/` [(badwolf910.github.io in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fbadwolf910.github.io%2Fcleaning-service%2F")
+Captain
+A clean, responsive layout built to explore CSS structure, spacing, and visual hierarchy.  
+Live demo: https://badwolf910.github.io/Captain/
+
+zen.source
+A calm, typography‑focused layout exploring minimal design principles.  
+Live demo: https://badwolf910.github.io/zen.source/
+
 
 Healthcare and Technology Background
 
