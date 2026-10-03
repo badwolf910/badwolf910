@@ -1,16 +1,47 @@
-## Hi there 👋
+# Danielle Smith — Full-Stack Developer
 
-<!--
-**badwolf910/badwolf910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive, accessible web applications with a focus on clean design, thoughtful UX, and modern tooling. I am a HarvardX CS50 certificate holder with a background in healthcare technology, STEM coordination, and data-driven workflows.
 
-Here are some ideas to get you started:
+I enjoy creating interfaces that feel intuitive, human, and purposeful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** JavaScript, Python, C
+- **Frontend:** React, Vite, Bootstrap, Tailwind CSS
+- **Backend:** FastAPI, Node.js
+- **Tools:** Git, WordPress, Railway, VS Code
+- **Databases:** MySQL
+
+## Selected Projects
+
+### quiet.chat
+
+A minimalist chat interface built with HTML, CSS, and JavaScript.
+
+[Live demo](https://badwolf910.github.io/quiet.chat/)
+
+### Portfolio Website
+
+My personal developer portfolio showcasing selected work, design philosophy, and project history.
+
+[Live demo](https://badwolf910.github.io/portfolio/)
+
+### Cleaning Service App
+
+A responsive service-based site built with JavaScript and modern CSS.
+
+[Live demo](https://badwolf910.github.io/cleaning-service/)
+
+## Healthcare and Technology Background
+
+Before transitioning into software development, I worked in pharmacy operations, healthcare data workflows, STEM education, and compliance documentation. This experience gives me a strong advantage in healthcare technology, insurance technology, and data-heavy applications.
+
+## About Me
+
+I am a developer who thrives where design meets logic. Outside of coding, I write science fiction, spend time with my cats, and unwind with *The Golden Girls* or *Doctor Who*.
+
+## Contact
+
+- **Portfolio:** [badwolf910.github.io/portfolio](https://badwolf910.github.io/portfolio)
+- **Email:** [dns22668@yahoo.com](mailto:dns22668@yahoo.com)
+- **GitHub:** [badwolf910](https://github.com/badwolf910)
