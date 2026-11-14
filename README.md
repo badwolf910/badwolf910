@@ -52,6 +52,11 @@ I enjoy building software that helps people better understand themselves, solve 
 
 ## Selected Projects
 
+### The Curiosity Cabinet
+An interactive digital museum for exploring artifacts and their stories, with searchable collections, timelines, and related discoveries. Built with React, JavaScript, and Vite, with a focus on responsive, accessible design.
+
+Live demo: [The Curiosity Cabinet](https://badwolf910.github.io/the-curiosity-cabinet/)
+
 quiet.chat  
 A minimalist chat interface built with HTML, CSS, and JavaScript.  
 Live demo: [https://badwolf910.github.io/quiet.chat/](https://badwolf910.github.io/quiet.chat/)
