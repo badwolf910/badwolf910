@@ -47,7 +47,7 @@ Live demo: [https://badwolf910.github.io/quiet.chat/](https://badwolf910.github.
 
 Portfolio Website  
 My personal developer portfolio showcasing selected work, design philosophy, and project history.  
-Live demo: [https://badwolf910.github.io/portfolio/](https://badwolf910.github.io/portfolio/)
+Live demo: [https://badwolf910.github.io/portfolio/]([https://badwolfweb.com/])
 
 Captain
 A clean, responsive layout built to explore CSS structure, spacing, and visual hierarchy.  
@@ -68,7 +68,7 @@ I am a developer who thrives where design meets logic. Outside of coding, I writ
 
 Contact
 
-Portfolio: [https://badwolf910.github.io/portfolio](https://badwolf910.github.io/portfolio)  
-Email: dns22668@yahoo.com  
+Portfolio: [https://badwolfweb.com](https://badwolfweb.com)  
+Email: danielle@badwolfweb.com  
 GitHub: [https://github.com/badwolf910](https://github.com/badwolf910)  
 
