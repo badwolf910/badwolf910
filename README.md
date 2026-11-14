@@ -1,6 +1,12 @@
 # Aloha, I'm Danielle Smith
 
-**Founder and full-stack developer specializing in front-end development.** I build digital products that blend technology, psychology, and human-centered design.
+Founder, Full-Stack Developer, and builder of digital products that blend technology, psychology, and human-centered design.
+
+I created Tessiel, an AI-powered self-reflection platform that combines structured natal-chart analysis, guided personal insight, accessibility-first design, secure user accounts, and AI-assisted conversations.
+
+My background in healthcare technology, compliance documentation, pharmacy operations, and STEM education helps me build applications that balance usability, data integrity, privacy, and real-world business requirements.
+
+I enjoy building software that helps people better understand themselves, solve problems, and have meaningful experiences online.
 
 ## Featured Project: Tessiel
 
@@ -12,9 +18,7 @@ I created **Tessiel**, a full-stack self-reflection platform that brings birth-c
 
 **Stack:** TypeScript, React, Vite, Supabase, PostgreSQL, and Vercel.
 
-My background in healthcare technology, compliance documentation, pharmacy operations, and STEM education helps me build applications that balance usability, data integrity, privacy, and real-world business requirements.
 
-I enjoy building software that helps people better understand themselves, solve problems, and have meaningful experiences online.
 
 ## Technical Skills
 
@@ -74,13 +78,9 @@ A calm, typography‑focused layout exploring minimal design principles.
 Live demo: https://badwolf910.github.io/zen.source/
 
 
-## Healthcare and Technology Background
-
-Before transitioning into software development, I worked in pharmacy operations, healthcare data workflows, STEM education, and compliance documentation. This experience gives me a strong advantage in healthcare technology, insurance technology, and data‑heavy applications.
-
 ## About Me
 
-I am a developer who thrives where design meets logic. Outside of coding, I write science fiction, spend time with my cats, and unwind with The Golden Girls or Doctor Who.
+I collect fossils, build software, write stories, and travel the world for essentially the same reason: I'm endlessly curious about how things came to be and what they might become.
 
 ## Contact
 
