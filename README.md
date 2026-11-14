@@ -47,7 +47,7 @@ Live demo: [https://badwolf910.github.io/quiet.chat/](https://badwolf910.github.
 
 Portfolio Website  
 My personal developer portfolio showcasing selected work, design philosophy, and project history.  
-Live demo: [https://badwolf910.github.io/portfolio/]([https://badwolfweb.com/])
+Live demo: [https://badwolf910.github.io/portfolio/](https://badwolfweb.com)
 
 Captain
 A clean, responsive layout built to explore CSS structure, spacing, and visual hierarchy.  
