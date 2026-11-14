@@ -73,13 +73,9 @@ A calm, typography‑focused layout exploring minimal design principles.
 Live demo: https://badwolf910.github.io/zen.source/
 
 
-## Healthcare and Technology Background
-
-Before transitioning into software development, I worked in pharmacy operations, healthcare data workflows, STEM education, and compliance documentation. This experience gives me a strong advantage in healthcare technology, insurance technology, and data‑heavy applications.
-
 ## About Me
 
-I am a developer who thrives where design meets logic. Outside of coding, I write science fiction, spend time with my cats, and unwind with The Golden Girls or Doctor Who.
+I collect fossils, build software, write stories, and travel the world for essentially the same reason: I'm endlessly curious about how things came to be and what they might become.
 
 ## Contact
 
