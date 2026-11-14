@@ -1,6 +1,12 @@
 # Aloha, I'm Danielle Smith
 
-**Founder and full-stack developer specializing in front-end development.** I build digital products that blend technology, psychology, and human-centered design.
+Founder, Full-Stack Developer, and builder of digital products that blend technology, psychology, and human-centered design.
+
+I created Tessiel, an AI-powered self-reflection platform that combines structured natal-chart analysis, guided personal insight, accessibility-first design, secure user accounts, and AI-assisted conversations.
+
+My background in healthcare technology, compliance documentation, pharmacy operations, and STEM education helps me build applications that balance usability, data integrity, privacy, and real-world business requirements.
+
+I enjoy building software that helps people better understand themselves, solve problems, and have meaningful experiences online.
 
 ## Featured Project: Tessiel
 
@@ -12,9 +18,7 @@ I created **Tessiel**, a full-stack self-reflection platform that brings birth-c
 
 **Stack:** TypeScript, React, Vite, Supabase, PostgreSQL, and Vercel.
 
-My background in healthcare technology, compliance documentation, pharmacy operations, and STEM education helps me build applications that balance usability, data integrity, privacy, and real-world business requirements.
 
-I enjoy building software that helps people better understand themselves, solve problems, and have meaningful experiences online.
 
 ## Technical Skills
 
