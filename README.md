@@ -1,10 +1,14 @@
 Aloha
 
-Danielle Smith — Full‑Stack Developer
+Danielle Smith 
 
-I build responsive, accessible web applications with a focus on clean design, thoughtful UX, and modern tooling. I am a HarvardX CS50 certificate holder with a background in healthcare technology, STEM coordination, and data‑driven workflows.
+Founder, Full-Stack Developer, and builder of digital products that blend technology, psychology, and human-centered design.
 
-I enjoy creating interfaces that feel intuitive, human, and purposeful.
+I created Tessiel, an AI-powered self-reflection platform that combines structured natal-chart analysis, guided personal insight, accessibility-first design, secure user accounts, and AI-assisted conversations.
+
+My background in healthcare technology, compliance documentation, pharmacy operations, and STEM education helps me build applications that balance usability, data integrity, privacy, and real-world business requirements.
+
+I enjoy building software that helps people better understand themselves, solve problems, and have meaningful experiences online.
 
 Technical Skills
 
